@@ -1,0 +1,165 @@
+.bm{
+  background-image:url("/img/background-img");
+  height:2000px;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.nav{
+  font-size:60px;
+  font-family:verdana;
+  text-align:center;
+  margin:30px;
+  padding:50px;
+}
+
+.nav1{
+  font-size:40px;
+  font-family:verdana;
+  text-align:center;
+}
+
+.page{
+  font-size:25px;
+  text-decoration:none;
+  margin:15px;
+  padding:10px;
+  background-color:white;
+  
+}
+ 
+ #heading{
+   background-color:pink;
+ }
+ 
+ .img_cls{
+   text-align:center;
+   padding:40px;
+   margin:40px;
+   border:15 black solid;
+ }
+ 
+ .img{
+   background-image:url("/img/images.png");
+   height:200px;
+   background-position:center;
+   font-size:25px;
+   font-weight:bolder;
+ }
+ 
+ .photo{
+   text-align:center;
+ }
+ 
+ .para{
+   font-size:30px;
+   font-family:verdana;
+   margin:20px;
+   padding:15px;
+ }
+ 
+.paracom{
+   font-size:25px;
+   font-family:verdana;
+   margin:20px;
+   padding:15px;
+}
+ 
+ .product{
+   text-align:center;
+   font-weight:bolder;
+   font-size:40px;
+ }
+ 
+ .cu{
+   font-size:30px;
+   font-family:verdana;
+   text-align:center;
+   background-image:url("/img/images (2).jpeg");
+ }
+ 
+ .element1{
+   text-align:center;
+   font-size:40px;
+   color:#8fe4f7;
+   border:5px #47cfed solid;
+   margin:40px;
+   padding:35px;
+ }
+ 
+ .element2{
+   text-align:center;
+   font-size:40px;
+   color:#8fe4f7;
+   border:5px #47cfed solid;
+   margin:40px;
+   padding:35px;
+ }
+ 
+  .element3 {
+    text-align: center;
+    font-size: 40px;
+    color:#8fe4f7;
+    border:5px #47cfed solid;
+    margin:40px;
+    padding:35px;
+  }
+ 
+ .element4{
+   text-align:center;
+   font-size:40px;
+   color:#8fe4f7;
+   border:5px #47cfed solid;
+   margin:40px;
+   padding:35px;
+ }
+ 
+ .element5{
+   text-align:center;
+   font-size:40px;
+   color:#8fe4f7;
+   border:5px #47cfed solid;
+   margin:40px;
+   padding:35px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .name{
+   color:green;
+   font-size:40px;
+   text-align:center;
+   font-weight:bolder;
+ }
+ 
+ .logo1{
+   height:50px;
+ }
+ 
+ .logo2{
+   height:60px;
+ }
+ 
+ .logo3{
+   height:50px;
+ }
+ 
+ .footer{
+   font-size:35px;
+   position:fixed;
+   left:0;
+   bottom:0;
+   width:100%;
+   text-align:center;
+   color:black;
+   font-weight:bolder;
+   background-image:url("/img/images.png");
+ }
